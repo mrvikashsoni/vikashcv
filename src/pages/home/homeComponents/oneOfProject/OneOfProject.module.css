@@ -1,0 +1,54 @@
+/* --------------------------------------------------------------------one of projects */
+.project {
+  width: 100%;
+  /* border: 2px solid red; */
+}
+.project_container {
+  width: 90%;
+  margin: auto;
+  /* border: 2px solid white; */
+  padding-bottom: 5%;
+}
+.container_inside_top {
+  padding: 20px;
+  color: #feba19;
+  font-size: 48px;
+  text-align: center;
+}
+.container_inside_bot {
+  display: flex;
+  /* align-content: stretch; */
+  justify-content: space-between;
+  /* align-items: center; */
+  /* border: 2px solid green; */
+}
+.project_bottom {
+  width: 25%;
+  /* border: 2px solid red; */
+  background-color: #282834;
+  height: 260px;
+  padding: 2%;
+  text-align: center;
+}
+
+.pbb {
+  margin-bottom: 5%;
+}
+.pbbb {
+  font-size: 45px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 1000px) {
+  .project_web {
+    display: none;
+  }
+  .project_mob {
+    display: block;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .project_mob {
+    display: none;
+  }
+}

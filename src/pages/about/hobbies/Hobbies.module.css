@@ -1,0 +1,32 @@
+.hobbies_container {
+  width: 90%;
+  margin: auto;
+  background-color: #282834;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2%;
+}
+.hobbies_in p {
+  color: #feba19;
+  font-size: 4rem;
+}
+.hobbies_in ul {
+  list-style: disc;
+}
+
+/* Media Queries */
+@media screen and (max-width: 1000px) {
+  .hob_web {
+    display: none;
+  }
+  .hob_mob {
+    display: block;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .hob_mob {
+    display: none;
+  }
+}
