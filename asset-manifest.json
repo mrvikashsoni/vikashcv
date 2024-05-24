@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vikashcv/static/css/main.f5f7de1b.css",
+    "main.js": "/vikashcv/static/js/main.bf52938c.js",
+    "static/js/453.f5eea8e5.chunk.js": "/vikashcv/static/js/453.f5eea8e5.chunk.js",
+    "index.html": "/vikashcv/index.html",
+    "main.f5f7de1b.css.map": "/vikashcv/static/css/main.f5f7de1b.css.map",
+    "main.bf52938c.js.map": "/vikashcv/static/js/main.bf52938c.js.map",
+    "453.f5eea8e5.chunk.js.map": "/vikashcv/static/js/453.f5eea8e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f7de1b.css",
+    "static/js/main.bf52938c.js"
+  ]
+}
